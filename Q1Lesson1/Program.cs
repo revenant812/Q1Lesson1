@@ -6,7 +6,7 @@ namespace Q1Lesson1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Введите Ваше имя");           
         }
     }
 }
